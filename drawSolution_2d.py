@@ -2,13 +2,6 @@
 # -*- coding: utf-8 -*-
 from pylab import *
 """
-14M37173 曽根毅
-プログラムに関する問い合わせは
-henohenotsuyoshi@gmail.com
-までお願いします.
-
-このファイルでは問2-(1),(2),問3-(1),(3)の解曲線を描く
-
 unit : ステップの大きさ
 stopCriterion : 微分のnormがstopCriterion以下だと反復が止まる.停止条件
 iteration : 反復回数

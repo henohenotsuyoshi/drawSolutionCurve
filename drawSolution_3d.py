@@ -5,12 +5,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 """
-14M37173 曽根毅
-プログラムに関する問い合わせは
-henohenotsuyoshi@gmail.com
-までよろしくお願いします.
-
-このファイルでは問4の解曲線を描く
 
 unit : ステップの大きさ
 stopCriterion : 微分のnormがstopCriterion以下だと反復が止まる.停止条件
